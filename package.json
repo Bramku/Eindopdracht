@@ -1,0 +1,27 @@
+{
+  "name": "programmeren4",
+  "version": "1.0.0",
+  "description": "eindopdracht",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bramku/Eindopdracht.git"
+  },
+  "author": "Bram Kuijpers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bramku/Eindopdracht/issues"
+  },
+  "homepage": "https://github.com/Bramku/Eindopdracht#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "chai": "^4.1.2",
+    "expres": "0.0.5",
+    "mocha": "^5.1.1",
+    "morgan": "^1.9.0"
+  }
+}
