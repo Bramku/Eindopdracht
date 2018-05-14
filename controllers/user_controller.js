@@ -57,6 +57,12 @@ module.exports = {
         }
     },
 
+    userLogin(req, res, next) {
+
+        
+
+    },
+
     getUserById(req, res, next) {
 
         let user = new User("Robin", "Schellius")
