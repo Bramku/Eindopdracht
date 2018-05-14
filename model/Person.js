@@ -7,6 +7,7 @@ class Person {
         this.lastname = lastname;
         this.eamil = email;
         this.password = password;
+        
     }
 
     getfirstname(){
