@@ -1,6 +1,6 @@
 // module.exports = {}
 
-class Person {
+class User {
 
     constructor(firstname, lastname, eamil, password){
         this.firstname = firstname;
@@ -15,4 +15,4 @@ class Person {
     }
 }
 
-module.exports = Person;
+module.exports = User;
